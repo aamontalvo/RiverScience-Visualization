@@ -3,4 +3,4 @@ This is an example of a visualisation using GIS and Javascript of the results of
 
 A comparison can be made of how these two hydraulic variables change before and after the inclusion of groynes (espolon in the webpage).
 
-Go to https://aamontalvo.github.io/MagangueEsp2/index.html to see the results.
+Go to https://aamontalvo.github.io/RiverScience-Visualization/index.html to see the results.
